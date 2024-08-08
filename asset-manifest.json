@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/KatyKartasava/home-work-2.git/static/css/main.e99fef7f.css",
-    "main.js": "/KatyKartasava/home-work-2.git/static/js/main.8dfded51.js",
+    "main.css": "/KatyKartasava/home-work-2.git/static/css/main.02aeeaac.css",
+    "main.js": "/KatyKartasava/home-work-2.git/static/js/main.fff772d0.js",
     "static/js/787.66cb4309.chunk.js": "/KatyKartasava/home-work-2.git/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/KatyKartasava/home-work-2.git/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/KatyKartasava/home-work-2.git/index.html",
-    "main.e99fef7f.css.map": "/KatyKartasava/home-work-2.git/static/css/main.e99fef7f.css.map",
-    "main.8dfded51.js.map": "/KatyKartasava/home-work-2.git/static/js/main.8dfded51.js.map",
+    "main.02aeeaac.css.map": "/KatyKartasava/home-work-2.git/static/css/main.02aeeaac.css.map",
+    "main.fff772d0.js.map": "/KatyKartasava/home-work-2.git/static/js/main.fff772d0.js.map",
     "787.66cb4309.chunk.js.map": "/KatyKartasava/home-work-2.git/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e99fef7f.css",
-    "static/js/main.8dfded51.js"
+    "static/css/main.02aeeaac.css",
+    "static/js/main.fff772d0.js"
   ]
 }
